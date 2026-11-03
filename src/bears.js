@@ -18,7 +18,7 @@
  * ==================================================================== */
 
 const DARK = matchMedia('(prefers-color-scheme: dark)').matches;
-const ASSETS = 'https://www.gstatic.com/delight/animation-engine/chicago-bears/';
+const ASSETS = 'assets/';
 
 // Field 5: 1 in "chicago_bears_autoplay" (plays on page load), 0 in "chicago_bears_base".
 const AUTOPLAY = true;
